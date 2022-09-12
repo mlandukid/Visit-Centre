@@ -1,0 +1,14 @@
+{
+  "name": "2b23189657a237a2",
+  "main": "2b23189657a237a2@496.js",
+  "version": "496.0.0",
+  "homepage": "https://observablehq.com/d/2b23189657a237a2",
+  "author": {
+    "name": "mlandukid",
+    "url": "https://observablehq.com/@mlandukid"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

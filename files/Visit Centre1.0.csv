@@ -1,0 +1,231 @@
+division,date,unemployment
+Neighbourhood Centres,2018-07-01,3
+Neighbourhood Centres,2018-08-01,1
+Neighbourhood Centres,2018-09-01,0
+Neighbourhood Centres,2018-10-01,0
+Neighbourhood Centres,2018-11-01,1
+Neighbourhood Centres,2018-12-01,3
+Neighbourhood Centres,2019-01-01,2
+Neighbourhood Centres,2019-02-01,2
+Neighbourhood Centres,2019-03-01,1
+Neighbourhood Centres,2019-04-01,1
+Neighbourhood Centres,2019-05-01,5
+Neighbourhood Centres,2019-06-01,4
+Neighbourhood Centres,2019-07-01,1
+Neighbourhood Centres,2019-08-01,2
+Neighbourhood Centres,2019-09-01,4
+Neighbourhood Centres,2019-10-01,1
+Neighbourhood Centres,2019-11-01,1
+Neighbourhood Centres,2019-12-01,3
+Neighbourhood Centres,2020-01-01,0
+Neighbourhood Centres,2020-02-01,3
+Neighbourhood Centres,2020-03-01,-9
+Neighbourhood Centres,2020-04-01,-52
+Neighbourhood Centres,2020-05-01,-32
+Neighbourhood Centres,2020-06-01,-18
+Neighbourhood Centres,2020-07-01,-20
+Neighbourhood Centres,2020-08-01,-16
+Neighbourhood Centres,2020-09-01,-9
+Neighbourhood Centres,2020-10-01,-10
+Neighbourhood Centres,2020-11-01,-12
+Neighbourhood Centres,2020-12-01,-1
+Neighbourhood Centres,2021-01-01,-16
+Neighbourhood Centres,2021-02-01,-9
+Neighbourhood Centres,2021-03-01,-1
+Neighbourhood Centres,2021-04-01,124
+Neighbourhood Centres,2021-05-01,41
+Neighbourhood Centres,2021-06-01,14
+Neighbourhood Centres,2021-07-01,1
+Neighbourhood Centres,2021-08-01,2
+Neighbourhood Centres,2021-09-01,-2
+Neighbourhood Centres,2021-10-01,-6
+Neighbourhood Centres,2021-11-01,-12
+Neighbourhood Centres,2021-12-01,-6
+Neighbourhood Centres,2022-01-01,4
+Neighbourhood Centres,2022-02-01,-4
+Neighbourhood Centres,2022-03-01,-8
+Neighbourhood Centres,2022-04-01,-12
+Community Centres,2018-07-01,3
+Community Centres,2018-08-01,4
+Community Centres,2018-09-01,3
+Community Centres,2018-10-01,3
+Community Centres,2018-11-01,3
+Community Centres,2018-12-01,1
+Community Centres,2019-01-01,5
+Community Centres,2019-02-01,4
+Community Centres,2019-03-01,5
+Community Centres,2019-04-01,3
+Community Centres,2019-05-01,8
+Community Centres,2019-06-01,-1
+Community Centres,2019-07-01,3
+Community Centres,2019-08-01,5
+Community Centres,2019-09-01,-1
+Community Centres,2019-10-01,4
+Community Centres,2019-11-01,4
+Community Centres,2019-12-01,-4
+Community Centres,2020-01-01,2
+Community Centres,2020-02-01,-2
+Community Centres,2020-03-01,-11
+Community Centres,2020-04-01,-59
+Community Centres,2020-05-01,-34
+Community Centres,2020-06-01,-19
+Community Centres,2020-07-01,-18
+Community Centres,2020-08-01,-15
+Community Centres,2020-09-01,-9
+Community Centres,2020-10-01,-8
+Community Centres,2020-11-01,-10
+Community Centres,2020-12-01,-1
+Community Centres,2021-01-01,-14
+Community Centres,2021-02-01,-6
+Community Centres,2021-03-01,1
+Community Centres,2021-04-01,160
+Community Centres,2021-05-01,44
+Community Centres,2021-06-01,15
+Community Centres,2021-07-01,1
+Community Centres,2021-08-01,2
+Community Centres,2021-09-01,0
+Community Centres,2021-10-01,-6
+Community Centres,2021-11-01,-12
+Community Centres,2021-12-01,-6
+Community Centres,2022-01-01,3
+Community Centres,2022-02-01,-2
+Community Centres,2022-03-01,-6
+Community Centres,2022-04-01,-10
+Small Regional Centres,2018-07-01,6
+Small Regional Centres,2018-08-01,4
+Small Regional Centres,2018-09-01,2
+Small Regional Centres,2018-10-01,2
+Small Regional Centres,2018-11-01,2
+Small Regional Centres,2018-12-01,-1
+Small Regional Centres,2019-01-01,4
+Small Regional Centres,2019-02-01,3
+Small Regional Centres,2019-03-01,3
+Small Regional Centres,2019-04-01,1
+Small Regional Centres,2019-05-01,7
+Small Regional Centres,2019-06-01,-1
+Small Regional Centres,2019-07-01,2
+Small Regional Centres,2019-08-01,5
+Small Regional Centres,2019-09-01,-2
+Small Regional Centres,2019-10-01,2
+Small Regional Centres,2019-11-01,3
+Small Regional Centres,2019-12-01,-4
+Small Regional Centres,2020-01-01,3
+Small Regional Centres,2020-02-01,-1
+Small Regional Centres,2020-03-01,-12
+Small Regional Centres,2020-04-01,-62
+Small Regional Centres,2020-05-01,-32
+Small Regional Centres,2020-06-01,-17
+Small Regional Centres,2020-07-01,-16
+Small Regional Centres,2020-08-01,-10
+Small Regional Centres,2020-09-01,-4
+Small Regional Centres,2020-10-01,-3
+Small Regional Centres,2020-11-01,-8
+Small Regional Centres,2020-12-01,1
+Small Regional Centres,2021-01-01,-10
+Small Regional Centres,2021-02-01,-2
+Small Regional Centres,2021-03-01,4
+Small Regional Centres,2021-04-01,182,2
+Small Regional Centres,2021-05-01,39
+Small Regional Centres,2021-06-01,12
+Small Regional Centres,2021-07-01,-7
+Small Regional Centres,2021-08-01,-4
+Small Regional Centres,2021-09-01,-5
+Small Regional Centres,2021-10-01,-9
+Small Regional Centres,2021-11-01,-14
+Small Regional Centres,2021-12-01,-7
+Small Regional Centres,2022-01-01,0
+Small Regional Centres,2022-02-01,-7
+Small Regional Centres,2022-03-01,-10
+Small Regional Centres,2022-04-01,-14
+Regional Centres,2018-07-01,0
+Regional Centres,2018-08-01,1
+Regional Centres,2018-09-01,0
+Regional Centres,2018-10-01,0
+Regional Centres,2018-11-01,0
+Regional Centres,2018-12-01,2
+Regional Centres,2019-01-01,2
+Regional Centres,2019-02-01,1
+Regional Centres,2019-03-01,3
+Regional Centres,2019-04-01,2
+Regional Centres,2019-05-01,7
+Regional Centres,2019-06-01,1
+Regional Centres,2019-07-01,1
+Regional Centres,2019-08-01,4
+Regional Centres,2019-09-01,2
+Regional Centres,2019-10-01,2
+Regional Centres,2019-11-01,3
+Regional Centres,2019-12-01,3
+Regional Centres,2020-01-01,1
+Regional Centres,2020-02-01,3
+Regional Centres,2020-03-01,21
+Regional Centres,2020-04-01,66
+Regional Centres,2020-05-01,33
+Regional Centres,2020-06-01,26
+Regional Centres,2020-07-01,23
+Regional Centres,2020-08-01,17
+Regional Centres,2020-09-01,12
+Regional Centres,2020-10-01,9
+Regional Centres,2020-11-01,13
+Regional Centres,2020-12-01,4
+Regional Centres,2021-01-01,15
+Regional Centres,2021-02-01,7
+Regional Centres,2021-03-01,4
+Regional Centres,2021-04-01,199,4
+Regional Centres,2021-05-01,29
+Regional Centres,2021-06-01,10
+Regional Centres,2021-07-01,1
+Regional Centres,2021-08-01,3
+Regional Centres,2021-09-01,1
+Regional Centres,2021-10-01,5
+Regional Centres,2021-11-01,13
+Regional Centres,2021-12-01,4
+Regional Centres,2022-01-01,3
+Regional Centres,2022-02-01,5
+Regional Centres,2022-03-01,6
+Regional Centres,2022-04-01,9
+Super Regional Centres,2018-07-01,2
+Super Regional Centres,2018-08-01,3
+Super Regional Centres,2018-09-01,0
+Super Regional Centres,2018-10-01,1
+Super Regional Centres,2018-11-01,0
+Super Regional Centres,2018-12-01,4
+Super Regional Centres,2019-01-01,1
+Super Regional Centres,2019-02-01,0
+Super Regional Centres,2019-03-01,2
+Super Regional Centres,2019-04-01,3
+Super Regional Centres,2019-05-01,3
+Super Regional Centres,2019-06-01,3
+Super Regional Centres,2019-07-01,4
+Super Regional Centres,2019-08-01,1
+Super Regional Centres,2019-09-01,7
+Super Regional Centres,2019-10-01,2
+Super Regional Centres,2019-11-01,1
+Super Regional Centres,2019-12-01,7
+Super Regional Centres,2020-01-01,4
+Super Regional Centres,2020-02-01,7
+Super Regional Centres,2020-03-01,35
+Super Regional Centres,2020-04-01,78
+Super Regional Centres,2020-05-01,44
+Super Regional Centres,2020-06-01,36
+Super Regional Centres,2020-07-01,35
+Super Regional Centres,2020-08-01,26
+Super Regional Centres,2020-09-01,21
+Super Regional Centres,2020-10-01,15
+Super Regional Centres,2020-11-01,18
+Super Regional Centres,2020-12-01,11
+Super Regional Centres,2021-01-01,26
+Super Regional Centres,2021-02-01,16
+Super Regional Centres,2021-03-01,8
+Super Regional Centres,2021-04-01,357,4
+Super Regional Centres,2021-05-01,43
+Super Regional Centres,2021-06-01,12
+Super Regional Centres,2021-07-01,0
+Super Regional Centres,2021-08-01,6
+Super Regional Centres,2021-09-01,3
+Super Regional Centres,2021-10-01,2
+Super Regional Centres,2021-11-01,12
+Super Regional Centres,2021-12-01,0
+Super Regional Centres,2022-01-01,13
+Super Regional Centres,2022-02-01,0
+Super Regional Centres,2022-03-01,3
+Super Regional Centres,2022-04-01,6
